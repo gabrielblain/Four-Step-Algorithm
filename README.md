@@ -1,5 +1,5 @@
 # Four-Step-Algorithm
-Improving the interpretation of standardized precipitation index estimates to capture drought characteristics in changing climate conditions
+
 Blain, G. C., da Rocha Sobierajski, G., Weight, E., Martins, L. L., & Xavier, A. C. F. (2022). Improving the interpretation of standardized precipitation index
 estimates to capture drought characteristics in changing climate conditions. International Journal of Climatology, 1–23. https://doi.org/10.1002/joc.7550
 
